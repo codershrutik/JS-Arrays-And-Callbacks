@@ -33,6 +33,6 @@ const movies = [
     }
 ]
 
-const titles = movies.map(funcyion(movies){
+const titles = movies.map(function(movies){
     return movies.title;
 })
